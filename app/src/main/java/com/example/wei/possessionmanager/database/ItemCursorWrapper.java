@@ -3,7 +3,7 @@ package com.example.wei.possessionmanager.database;
 import android.database.Cursor;
 import android.database.CursorWrapper;
 
-import com.example.wei.possessionmanager.Item;
+import com.example.wei.possessionmanager.bean.Item;
 
 import java.util.Date;
 import java.util.UUID;
